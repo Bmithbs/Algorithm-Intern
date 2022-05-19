@@ -169,6 +169,7 @@ def my_nms2(bboxs, threshold):
     return keep
 
 
+
 plt.figure(1)
 ax1 = plt.subplot(1,2,1)
 ax2 = plt.subplot(1,2,2)
